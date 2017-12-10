@@ -1,695 +1,614 @@
 {
-   "html_attributions" : [],
-   "next_page_token" : "CpQCAwEAACNoQ1lwJ7LvLuFRR1JLoG2d7Rg4PjaYU7da1RU0q0B5ISiXmFmQWLAPNGr0ikPTPT6HKFNYhWWS9szP_IowUsc9VRmalq0n4HYP4ZotzzZmJTKgDh2ISc3HFc2rYdF3B5JL68Ih0CzrV2L_FP6GH6uO2kVX4sYOI0aN0O_bnGVBlWVEb484yknJC96R9YuOGkIEU4Y4DiVVVlCTIWYEU1u8SnIo66tmJ3nqzcHQXUUdQ6iFO8_hK4UovFP3g5nvj3bAvL2TAutYeIY7LsWJa7uwUoV3LmKk-naA7HIuoSkBO9ikSiiDiEAyiSqrsLGNWkYVjF3LeYkl5dNgOGrMWZWHhhDt71d08rqqAIEuXCnFEhBsI5AfSC5yASvSUCkwjt57GhSzO4O0HQDiOct5cnJUNBYxx8EQGw",
-   "results" : [
-      {
-         "formatted_address" : "B-364, Yakutpura, Vadodara, Gujarat 390006, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3048776,
-               "lng" : 73.21215800000002
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3062265802915,
-                  "lng" : 73.21350698029151
-               },
-               "southwest" : {
-                  "lat" : 22.3035286197085,
-                  "lng" : 73.21080901970851
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "c771bb7ebe0f9c292d85be14a6d1172aea624635",
-         "name" : "Minara Masjid",
-         "photos" : [
-            {
-               "height" : 532,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116470538842244982849/photos\"\u003eMansuri Soheb\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAh7sHruGW3YVeH8DbJjdcdhr2WijcG8lLOt9fFTHusrL5SiuCvPGTJULsTeL8cJ0Lf1nSjM8ydTY_EI4Zesr-JSox-nwmbK5RMQH-vqQ-76bIEEqaGUn88rjIZT6EQF-xEhDvQewnLkPp8e78WGbh4ydJGhQeLdyDUARGEoexp6DmiPf73Vza0w",
-               "width" : 399
-            }
-         ],
-         "place_id" : "ChIJ-ZvELGLPXzkR6g13TDiNXm4",
-         "rating" : 4.6,
-         "reference" : "CmRRAAAAg9l66GYM-7keiEmqUlZ218zzuyz363RzoD-F1lyb4LfNe8Bir1niG3upc71xW0aBTHAvDLjjp3zb7vkT3gG7OGN2idaZZFF-iqny9iBfYUz8P3TbxxOK9k0kfhBblqsPEhAUFnC5mPkG91PolB9AgjM3GhQB_-WgrUqgmgfjzif9L-VRW5kskw",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "A-21,, Refai Park, Tandalja Rd, Taif Nagar, Tandalja, Vadodara, Gujarat 390012, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.2873405,
-               "lng" : 73.15135370000002
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2887294802915,
-                  "lng" : 73.15257608029151
-               },
-               "southwest" : {
-                  "lat" : 22.2860315197085,
-                  "lng" : 73.1498781197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "30018473e86ffb25c031ccd1ad45661d525e15ff",
-         "name" : "Ajmeri Masjid, Tandalja, Vadodara, Gujarat",
-         "photos" : [
-            {
-               "height" : 1440,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117364716928460766966/photos\"\u003eAlex pathan\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAy8t1TE9DWR_kifsP16i48pXs72JpXaV95SqTPmvMu59sp9biMveHERe-tFjdPfANAvpv7UItMyrTCYIlrcD3lDTonYibAOXpNwwCSAlv9gbu-WgwV3tlZu5NeGNI-7XKEhAYNigVxjDKSvEMIg1mKLhFGhQow6bYfUiQX1oqiOjiFTfs7NZXnw",
-               "width" : 2560
-            }
-         ],
-         "place_id" : "ChIJeWmnYCTGXzkRJHEJeLVUNMw",
-         "rating" : 4.8,
-         "reference" : "CmRSAAAAqX0iGieEuQWk8aCzLlXlVMv2FkaHoC3jjyP3yRLfwi6SBCWGz8qSbD8zxYGjtDurUkuwq_ZeoPGGRVeQTt610OTCNYda6ikpUPQg5rtuttJVwFW-3-5UPd-h9LPCPJFXEhBoOQaTcrbAWZE2uS1DZx8qGhSl5bPlv1qjYiNamanavAwta-XTpQ",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Kadak Bazar, Chhayapuri Railway Colony, Sarod, Sayajiganj, Vadodara, Gujarat 390001, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3084857,
-               "lng" : 73.18209279999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3101684802915,
-                  "lng" : 73.18326843029149
-               },
-               "southwest" : {
-                  "lat" : 22.3074705197085,
-                  "lng" : 73.18057046970848
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "ffdcc643b5da5630991cf25141255854693cd14d",
-         "name" : "Kadak Bazaar Masjid Vadodara",
-         "photos" : [
-            {
-               "height" : 4160,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117499174009712818881/photos\"\u003eSuuryakirana Waanapalli\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAZ8uD04MK-xRQ_77OMrftBJYIzhAS98-Cg2fZ4rZSw0mRV-7LIb4fRCZrDnqtBokHVc5wo0erY_FYlWKnikeSn-A6wD-SMq-O3zTOIfBHLXO7tdJPi6sE-3rSC0ahjTNwEhBLu_eaaK-1muIiwc3l8Ru4GhQ3RnC3yCDnDxXb_m_KucX351kPZw",
-               "width" : 3120
-            }
-         ],
-         "place_id" : "ChIJOV_6SK3IXzkR465tSJclVMA",
-         "rating" : 4.6,
-         "reference" : "CmRSAAAAK2K38EUlhK35Ef2IIPuRe0PM-2Ugvp_oLC-jGOMRcDId3zMrzKp9GhxDCrl5pUzaABU74LNMo8OZFAGoWkU0sqoFLX6GKacKnY3e7K7jL1BaPXIRUAO0tQLX9niUGeJlEhAaiBrTxi3jdpSW5FBEW1z8GhTjr6Cnt-b44fXUowPm-7hEhh-_ug",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Taiyebi Mahal, Badri Mohalla, Wadi, Vadodara, Gujarat 390017, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.295068,
-               "lng" : 73.212525
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2964169802915,
-                  "lng" : 73.21387398029151
-               },
-               "southwest" : {
-                  "lat" : 22.2937190197085,
-                  "lng" : 73.21117601970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "de53f7e652c8cc41cabf6b0c9af2c249cf4a1178",
-         "name" : "Alavi Bohras Jama Masjid",
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101640183903390478485/photos\"\u003eMohammad Nuruddin\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRZAAAAso545JfyU_RjSM1Yky6FfYX40dQHWJwSrZNLY_Ll2FTSIPH6ZWis71NOaPXO72AL3OQl2rGbpbAxusj7huWth-ioHBVqur1Bjy8xCnYV72HYIMBMZTD-O09rUzlDxMSeEhCUVIUZbt4a-g0TBR3f0YGuGhRCDkQEj3JwvCXdjm6MlQsoGutMng",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJTZDEoo7FXzkRRS8zmfkfRM4",
-         "rating" : 4.5,
-         "reference" : "CmRSAAAAls3v-D5vaX2zmZk7__pqomEoAl-xG6KTqR4sa4dTgWsyoqXqTQbCVGr01u1ZCv-awncqba-__3iBx719sGM7QmvZEVC_VZy3hFPBxjXGJpGww_nEOn09jT8lXwMQtrRVEhCPor03RmF12yauJYGq4I7xGhQX5geZUwL5BKjek74dinneQqb7gA",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Navayard, Nizampura, Vadodara, Gujarat 390024, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3334466,
-               "lng" : 73.17445049999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3347955802915,
-                  "lng" : 73.1757994802915
-               },
-               "southwest" : {
-                  "lat" : 22.3320976197085,
-                  "lng" : 73.17310151970848
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "a485492ae6b047d1ad2aa5889eef7cf10c38f6f9",
-         "name" : "Al-Jubair Masjid",
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112079894310645606051/photos\"\u003eSuhel H\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAPxFAhd8SHyZdQqkEUPcuYoq8Ioht4ZgVp1F3w-BFw6QU0UusOFMu7y4aIDCrRsynHiRUdaPxmyEPEd7KzKaCnom-PsVla0WBlQAfh7PPRFmnccocAWVp33HFOop_VF80EhB6WNMdXMI8onoXOsQcoFxaGhQkMZQrEGFDkC5bLueyLNGANHsbBA",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJZ6VTw9HIXzkROntrlkCxAMQ",
-         "rating" : 3,
-         "reference" : "CmRSAAAAUOc5Xvbx7-urtWL3CeUsCCjUXu7tKpu7CeeeM2c0TmIzW-puqYiczXW7NEqYnqvYLiZcmQS4oXtfgRvELF5Ze2vPSS2GTwersglRHq_6tH-4VRblwIJNSRXM0dVV9U9ZEhBx0JoTzTKmeTCQlYG-f8czGhSc1nvCpiw0xoQQQxFVROpF8IvueA",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "MG Rd, Naya Mandir, Laheripur, Bajwada, Mandvi, Vadodara, Gujarat 390006, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3002809,
-               "lng" : 73.2062969
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3015438802915,
-                  "lng" : 73.20769308029152
-               },
-               "southwest" : {
-                  "lat" : 22.2988459197085,
-                  "lng" : 73.2049951197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "a044be01ce61ecb9fe45281f9d73d9b7539cee5c",
-         "name" : "Khajuri Masjid (Mangal Bazaar)",
-         "photos" : [
-            {
-               "height" : 816,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/103458326877396552831/photos\"\u003eAsif Memon\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAfzMcEZnPHn9HF7zvB3_xcH9obzzmrU0L0jzi9RUd5OAetPCvmcG-rpLLwuNBNE6VWnbbKQFsTdcOZ-p6Wnp9KoED0hAda9qv6wc3_IYJDFg0_LVija4lU-ASPBfRwN-0EhCTPUlZ-FT91yNHVHO2FWGDGhSrzOkIVm3T8RdAbKVq83Cm1nOgsA",
-               "width" : 612
-            }
-         ],
-         "place_id" : "ChIJVyOTtorFXzkRstfIbmgykmM",
-         "rating" : 4.3,
-         "reference" : "CmRRAAAAtO712yrPsUhWj8XMnJIh3kMCDEtLhuLD6khs0qhnIuAyzTarlRWKA7rbaecOq8Dg-iyFLDiqM5j8RZtuV3ow6IBfwycKMUl_IfYpo7j8z3semZBDIi5K_8ogiYK0w4M6EhDbls9soF4p4SIjGz5Y2PmoGhSf8DAhMf-HGyD10jWcT4-JbLgTtw",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "4, Panigate Rd, Syedwada, Chhipwad, Vadodara, Gujarat 390006, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.30036239999999,
-               "lng" : 73.21559259999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3016237802915,
-                  "lng" : 73.2168803802915
-               },
-               "southwest" : {
-                  "lat" : 22.29892581970849,
-                  "lng" : 73.21418241970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "e2dd6877d81ccc4e39c7189efefc49003c8cedda",
-         "name" : "Musanji Shaheed Masjid",
-         "photos" : [
-            {
-               "height" : 683,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101876903104796009768/photos\"\u003eBhaisaheb Zulqarnain\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAwcSBiMn0v-ywXA2K2934UsG2LBtgVaBLDClWLQiPsMhgt4VUlXBBgUkeFapd_71mI2fqgTuA8R9bqUZt-wYVcxp7JCvJvD_1uF0OvQO_thwhwZUJqBfIlGvw5Olsl1c-EhCwJnjCW6Vn3OttSaINq321GhSqMkkAmrUBlswfEl1Xg6mVvJk3kQ",
-               "width" : 1024
-            }
-         ],
-         "place_id" : "ChIJiTjpRIjFXzkRoigiJijqCIg",
-         "rating" : 5,
-         "reference" : "CmRSAAAA-hRZlXTsg_8Yh_VFukdfar518X0UxqG7RaNGQ30x3vcCdLApe9AjI7izxaK0uuApCm403IsM6DwZrKq3Ke4FZfY0C7iSFVYuDld5ISEg1GPqzG_mHz5n0x7lBLO3XorvEhCDTW6P7caQY_gJzgYTxoMIGhSkQpgiaRKOfFEMBY6dFoTvwdEOPw",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Gendi Gate Rd, Near Mandvi Gate, Bajwada, Mandvi, Vadodara, Gujarat 390001, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.2994388,
-               "lng" : 73.2104602
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3007903802915,
-                  "lng" : 73.21190358029151
-               },
-               "southwest" : {
-                  "lat" : 22.2980924197085,
-                  "lng" : 73.2092056197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "2ae4e07f8361bd8f68a79b0155fea4361375c478",
-         "name" : "Jama Masjid",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 547,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101158652760578596913/photos\"\u003eabdulkhalid tansujwala\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAWecElb-I7axnMe_89yIpBpn34K5t6ZGnyb_m2RxfuUO3XprgZpf5Gbq0B0T1m8W-SEnK32LaOTzT22-1wJWAABwEJjjuUcSDudm5Qhyt-QMAb719EGRZiKqkXgm4ei_4EhCKW9PLAx3fIKvTJ29WQDFbGhSmvArgz0-jsPNRkWXYmO--oYGjXg",
-               "width" : 820
-            }
-         ],
-         "place_id" : "ChIJT8T5NorFXzkR-4b0X_qtjX0",
-         "rating" : 4.8,
-         "reference" : "CmRRAAAA8j5U537JilBR6w8Fbt3Z2jzNnb6YU2Jbb40g36pm8qnmVrhaM2BaEsnLImQDbY9zEGLeYBb-eRH-4GTwboX-929l9H0OjwynddgXm4YyV3mqGnVWb10JtqcdSgKT1BUyEhDT4YCn_FZHdfMNbrsLECQlGhQi4OQ194hIUa7UhfRIwJDmOlxeHQ",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Tandalja, Vadodara, Gujarat 390012, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.2876173,
-               "lng" : 73.1551588
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2889662802915,
-                  "lng" : 73.15650778029151
-               },
-               "southwest" : {
-                  "lat" : 22.2862683197085,
-                  "lng" : 73.1538098197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "2a33fc6b0b7b4991135f97392a9152890c49bd85",
-         "name" : "Ayesha Masjid",
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112079894310645606051/photos\"\u003eSuhel H\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA7bvrXwxm5AicCn7gXUps-9aja2GROIAbgdSM4G3z9093WbXKnZ-nOCFXGGupOfY36ccowfnycfz-f3Pk3PUk4mDBWNdDw3Tnsm-SMhXznISeWjwGdYgSgj2PesElbbbtEhAz0tI-857cd46yqNoJ3e5JGhRc4S-zPzXo4TpQ69sEAw9H4LXK2Q",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJCSRAqSPGXzkROehghb2YT4E",
-         "rating" : 5,
-         "reference" : "CmRSAAAAJ8YEcDKF_d5TFf0aHlYRaNHQwPg568jquZJN-7xANMECVb47yWlRw-Y78CRm708i4I-WeP9BOFNcjdglR1BplzSFHj_9gU88XpAOFN4EOCxpZbrywEA8FjqX7MBvLVzvEhAps0Ca6St5YFVI2aM3WD29GhSUyKZCSL9x4-A__xGMG7gQRfV1Tg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Makarpura Rd, Near Air Force Station, Makarpura, Vadodara, Gujarat 390014, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.243674,
-               "lng" : 73.1935759
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2450303802915,
-                  "lng" : 73.1948218802915
-               },
-               "southwest" : {
-                  "lat" : 22.2423324197085,
-                  "lng" : 73.19212391970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "b12194091383091932409a6b96251c13889e7a68",
-         "name" : "Shahi Masjid",
-         "place_id" : "ChIJi5Q15y_EXzkRqhlaojR1wjI",
-         "rating" : 4,
-         "reference" : "CmRRAAAARFwmJeN8LIDof2t67oN70s5Mp1LKIaYxZ2C1mm7dcTTE9JgDXe-8MqlwoiglT44IN7Dinu9Tp2ZcbDh8XwiHAXznBWbNB6ay3M6PMQlEkyyv4mxszH2TfD63txE_XR9SEhDAXXuGsKeKMmBaysiDoPNvGhSaXk_yNbzz4zZArGMmRPfTMt-kxg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Masjid KGN,, Tandalja Rd, Tandalja, Vadodara, Gujarat 390012, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.2890519,
-               "lng" : 73.15031379999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2904038802915,
-                  "lng" : 73.1515597302915
-               },
-               "southwest" : {
-                  "lat" : 22.2877059197085,
-                  "lng" : 73.14886176970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "689ab610e3f936112982f44956bc1dcea89206a2",
-         "name" : "masjid-e-khwaja ghareeb nawaz",
-         "photos" : [
-            {
-               "height" : 3264,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/103356658581294526670/photos\"\u003enazneenashrafali saiyed\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAzgfZ32SBQGcczhWdK8pLxbqtXzAtEiYmal6DR6RvWnYFWKs51NOt299sST5SHzdOd2OxcYDmjNiczehsN4VkaTuKT6nz4Ej7-N55V_5vciSZ0qufJS9CcTP9bHfgXFAnEhBoSs25So9_ACVlchS-HcGXGhT2UIM5YsIxHoSUPLSVDrHXCTWalw",
-               "width" : 2448
-            }
-         ],
-         "place_id" : "ChIJl6crMCTGXzkRr5hFUsoYgcM",
-         "rating" : 4.6,
-         "reference" : "CmRSAAAAMiD3EmSFwEF2DUG9avS91myhKGuPibvRVX8KE0amUxmDDm8nJfkwoedxf30P5fC4aHhjAYPVzHgbMTpDJQU4Vaehs5HeKgo3k8uI7ygKLtS6NDlpMstmjVVPPgozVt21EhCtOcsYqVpbN4hQJK0r8bVkGhSaWrWLdsylCM6mddkgd62RpMFw7g",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Bahar Colony, Sayaji Park Society, Vadodara, Gujarat 390019, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3126838,
-               "lng" : 73.2353907
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3141662302915,
-                  "lng" : 73.23671403029151
-               },
-               "southwest" : {
-                  "lat" : 22.3114682697085,
-                  "lng" : 73.2340160697085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "acea2f22a34531c935683393b250491f9525d38b",
-         "name" : "Burhani Masjid",
-         "photos" : [
-            {
-               "height" : 4160,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115209297513675389223/photos\"\u003esalim dahodwala\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAARH_h9oZ2MKD_UAL19UAB0C5UT9CfSayPolnYBl6PuQ_MtXaesR7uXnCiaoGUQ7VlePfG7VghYwGnGc9p9BLPll3XqpFniOkRVoIYjHxZ3E_dY42f10boOp-UzWnwxAhWEhBr59JNPRPQqLd-U-hLuJNrGhQNHmq1FtcOBwEzgv8BvDRjiAfBfQ",
-               "width" : 3120
-            }
-         ],
-         "place_id" : "ChIJNWrjeITPXzkR9dVgun5mSjY",
-         "rating" : 4.9,
-         "reference" : "CmRRAAAAirhkSkvJW7L_inogb6McOwRa_m0bKAFB515SKrQsLvwchKRtED7ezAiVGrwpc_cWKuN8WZlpn3J8wDzp5TIkU6aznpqE751ing27abhyCKH8ftNP9428rAet-Xwj0N6vEhAH9-wCDlIB7WFmjHhXM14eGhRfzUmm__9vOcT1RV4TA6GshPRYTQ",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "143, Akota Village, Akota, Vadodara, Gujarat 390020, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.295951,
-               "lng" : 73.177978
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.2972999802915,
-                  "lng" : 73.17932698029151
-               },
-               "southwest" : {
-                  "lat" : 22.2946020197085,
-                  "lng" : 73.17662901970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "e3c9e89c7ed58adfd67bee73ea0c20ca6578d3bc",
-         "name" : "Akota Gam Moti Masjid",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "place_id" : "ChIJByzFowHGXzkRmLHyDFTV9Ak",
-         "rating" : 5,
-         "reference" : "CmRRAAAABCF5Leq2mL3l_zpr_DPPJNf-z3fZF_gUDxZVAXrhSQGCIONemG7jXVn92eOMpcF-4f3YL8_rpffSLtX5wc30QcqLul99Nx9Bnm7hshzbvKXPuDWJLvjZJFL0F0bkdx6gEhDCY4t0b_Deakw3BSYpM5AaGhRBWU7RQuQeUj5p2oe_nbAlisjepg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Sadar Bazar, Abbas Tyabji Rd, Jayesh Colony, Fatehgunj, Vadodara, Gujarat 390008, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3226561,
-               "lng" : 73.18970949999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.32404278029151,
-                  "lng" : 73.19105048029149
-               },
-               "southwest" : {
-                  "lat" : 22.3213448197085,
-                  "lng" : 73.18835251970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "8c1a90b07363ec74948fc30b4e4b872b3fe89fac",
-         "name" : "Badi Masjid",
-         "photos" : [
-            {
-               "height" : 4320,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/103530913045720269190/photos\"\u003eRaliya Hafizurrahman\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAWdZwm1LiRCd1XLHwnhiozgMI3LSpm-FAPhwwgIXshTAScWrZ0JMcEjEm_A14kE7Rn7CZGw0LGfwFu0vPgg4dd9r4-22Tmqs_69HLbKIREHxIsyAYIyMU1rIsQ0wDktJfEhD-Z9NQHGNnxajsf7kz4iSeGhS_Df5LNmN-MrQzGzaqtmP6ssHo_w",
-               "width" : 2432
-            }
-         ],
-         "place_id" : "ChIJxZqn30nPXzkR2--_QbpcOJo",
-         "rating" : 5,
-         "reference" : "CmRSAAAA0cb4QXROwK7WKYM4f82aYF1t7AFoCg8WdKDwp5KAutB-EcJZN1XaLFVZeIfZeiRIoGhvGVbYT-ekRcDUPThrm1orU3F3ZOn0HKhQ--UGNiNMI6YmbzQkFTc3N-uHDvHOEhC9gxy-K8gJFVknTIf2BwZRGhSsbwfyVoc3PgyJHPAbHEOQvuLvYg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Masjid Mohalla,Gorwa village, Gujarat Refinery Rd, Gorwa, Vadodara, Gujarat 390016, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3312223,
-               "lng" : 73.15772699999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3325706302915,
-                  "lng" : 73.1590715802915
-               },
-               "southwest" : {
-                  "lat" : 22.3298726697085,
-                  "lng" : 73.15637361970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "aea266523ccb4fe31b79e397d5f54cc0f880a590",
-         "name" : "Noorani Masjid",
-         "place_id" : "ChIJeT1q4-fIXzkROqgL68VQPRw",
-         "rating" : 5,
-         "reference" : "CmRRAAAAoJ8-nEQY-qpMd5V1N_C_UxC5eQZ8gxlEZ7F_kgrKlZTClIGlwMvHtoOCPp12Ym6fFlzm6opzQ2_g8-JrSGRYgfJixa1OxQDdcWsnUbpoMDHk9REJ1DV2Xmvd0WL7ChBoEhDcogSGdSuwvP1TTtAzOXO1GhQRk4lg37S1-6i29m26feeVp17usg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "behind, Gulistan Society, Ajwa Rd, Bapod, Waghodia, Vadodara, Gujarat 390019, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3076277,
-               "lng" : 73.23480929999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3091104302915,
-                  "lng" : 73.23618743029151
-               },
-               "southwest" : {
-                  "lat" : 22.30641246970849,
-                  "lng" : 73.23348946970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "41d2759a122081aa637d29ba48874543619697aa",
-         "name" : "Taiyebi Masjid",
-         "photos" : [
-            {
-               "height" : 3024,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101640183903390478485/photos\"\u003eMohammad Nuruddin\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRZAAAAe0K0Wq86NXL9IAktv9510QZLzNnnoGbrRhq5PUORfZEU-RvmSsGwstPP8bqEJnNsrRTuxE2g8mAOlaAFe37jMw4txvVptVyLk8gAgPut0y0yU7mfs8jTZb8UF0F9klO8EhBPggYEMTBujniyyLsc7b0-GhSKJKmI6o6H3ANngRpx060DxMKDxw",
-               "width" : 4032
-            }
-         ],
-         "place_id" : "ChIJy3z5K4HPXzkR_mKJc_UbM1s",
-         "rating" : 4.8,
-         "reference" : "CmRRAAAADP4JVCHS15S1F78CfWPTnaHvp0Q9pT4qgokUg_jb1RVM6yIS027Q26uRg-4ygeAAGjNm12fXQCIPchwsvPZQISKtFFrHefcIFH-5FZG1rp7oxEGE_ajYlG63Ntt1dAj2EhBc58zRzMM8KSqbVM6EWnx6GhSz5uht_w5S4Tac4rVAPceTdBLDfA",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Jetalpur, Vadodara, Gujarat, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3072775,
-               "lng" : 73.1796265
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3086264802915,
-                  "lng" : 73.18097548029151
-               },
-               "southwest" : {
-                  "lat" : 22.30592851970849,
-                  "lng" : 73.1782775197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "8f4e6387d52b8ad9aa437ab59adfaa7400f0adeb",
-         "name" : "Jetalpur Masjid & Kabrastan",
-         "photos" : [
-            {
-               "height" : 2304,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105786529301893434415/photos\"\u003eAbdul Rab Basar\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAOjJCN92QaAXUOdPSmLVTQ0LKO5THcuJAgGftf0P58KxXjJR-lsNznaEXA0mRQNutLAnQV7DwDExwdCEQcffR8MnBvwRKjVRkxVjlFoYGNyZMcypgH0D9oSQfu9Nm9A-8EhD9GeeHBDf5t7362ReDFZoUGhSSbjCCxtpBO5AODoqp-ENkf-f5OQ",
-               "width" : 4096
-            }
-         ],
-         "place_id" : "ChIJIdkHAq3IXzkRxntFJECq3fU",
-         "rating" : 5,
-         "reference" : "CmRSAAAAeyG0ZOqO4KDTokaR5G-0WyqARDiOCcpniij34FjG20fFIRPG4NshauMkmG7r5KqvAjjuDQnBSMeYn20pQDBUGKMtCfASqNXPCftRHuRk8X82tTON-hL4IGPRerpCRTYgEhBVgRkTAM9rm2oyZGnRUyyqGhTlRbAx7FVJeLjUtccaWzB_ejm8Mg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "Karodia Rd, Madhu Nagar, Gorwa, Vadodara, Gujarat 390016, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.341422,
-               "lng" : 73.1528467
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.34269508029151,
-                  "lng" : 73.1540661302915
-               },
-               "southwest" : {
-                  "lat" : 22.3399971197085,
-                  "lng" : 73.15136816970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "45421726dea96645885de3ee42a945946ec974b6",
-         "name" : "SUNHERI MASJID",
-         "photos" : [
-            {
-               "height" : 4128,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115868693443626621692/photos\"\u003eisteyak alam siddique\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA28tV7OdnAuEaM1WVYwDUCRJK0apVFRnsjoBtTOZyynDVe8cuRNtYBCS_p30zb9VUz4AV-jErgijm5ois8JG19RgN4oGhd6AoGcZlIYymQJQfiw6KieJ5gzelZYF-R1GsEhB7W6-8ySrIDknxWLwQxVE2GhT4EeM6p4adXuvqEaHk9zWFbkp9wQ",
-               "width" : 3096
-            }
-         ],
-         "place_id" : "ChIJVVVV-OHIXzkR5P-uodFnBjg",
-         "rating" : 4.4,
-         "reference" : "CmRRAAAARW_W9hI4TqT2gfIzMijgnLH5Ralhev76AGl7YKkuETrHw7ZbS4hfvCPLXnXk4ItnX9AtSSiTP2x6HnokR-rMGVRptK24uOBAJiACtCsfJwdvgcQINOyTfbhQynR6WLdfEhBiS8erT0Du1Xl2LDJAe8BgGhR-knGaSk63MOwXlFRN2b2wk83gtw",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "A6, Ajwa Rd, Kismat Colony, Waghodia, Vadodara, Gujarat 390019, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3045876,
-               "lng" : 73.2298177
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3059626302915,
-                  "lng" : 73.23127938029151
-               },
-               "southwest" : {
-                  "lat" : 22.3032646697085,
-                  "lng" : 73.2285814197085
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "2912aab91df4b2dfcbac72e81891273f038128f3",
-         "name" : "Masjid Al Faarooq",
-         "photos" : [
-            {
-               "height" : 4608,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100118711890566880515/photos\"\u003eSHABBY S\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAl5zVrIGutKPDjvg_0XY63mCqL6gfEZZnW9RehoOFkuJ83Y8xfPf93IhFMgI1cWaa10FKMKvRjB3x7pX3sEt1GDgefrBKimmZw4vBoKHF061-rIobm-nS-H3uN-nZpMXxEhCBaH-eW7rbnwgcwvlv_m-MGhScHJ2ROoqEtxGSszJz7_DixmlMmg",
-               "width" : 3456
-            }
-         ],
-         "place_id" : "ChIJh_Y3BYDPXzkR8yvfO1ZbGb8",
-         "rating" : 5,
-         "reference" : "CmRSAAAAgllcflI8mH11fucFIjWHOK8_F1yEJeWWWFJo7ePGI5sCEYNIgRoiDQ2PHg6fIBwBz8s7HEz8jnqR1hGYbPiuGG2B0yQxDyRZm5ZHYE3Mn74s-pH6a33xVpZ-AytheVesEhCTHkWSvrR27K71sCCdU9qhGhQj2PEj_49h9o2C_4hEQtsh2vnHHw",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      },
-      {
-         "formatted_address" : "10, Productivity Rd, Sampatrao Colony, Jetalpur, Vadodara, Gujarat 390001, India",
-         "geometry" : {
-            "location" : {
-               "lat" : 22.3065458,
-               "lng" : 73.18061329999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 22.3076828302915,
-                  "lng" : 73.1825126802915
-               },
-               "southwest" : {
-                  "lat" : 22.3049848697085,
-                  "lng" : 73.17981471970849
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "27389dd75dc2c87585de219d830539774311a288",
-         "name" : "Muraad Shaheed Masjid",
-         "place_id" : "ChIJh5U-6KzIXzkRMS-yMFa5SwM",
-         "rating" : 4.5,
-         "reference" : "CmRRAAAAKDz2dPk4XYTGh-tN1PsuJ0IcYmeXnxmp9RKJGinL8U2w_tVwJDbfRSWRVJLGoTRJl6tyEi3iuzxerVYtNwDLhhQJWe7RNirpHtuvYcu8MmfGKPdEKtKRbWp8KSG3CjeCEhDpUwqSM48lGeNk3vq0zqqXGhQebeE5j7J6pKpPONVJgSJVEXZdNg",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
-      }
-   ],
-   "status" : "OK"
-}
+    "html_attributions" : [],
+    "results" : [
+       {
+          "formatted_address" : "Gamdi, Anand, Gujarat 388001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.57090579999999,
+                "lng" : 72.96709969999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5722547802915,
+                   "lng" : 72.9684486802915
+                },
+                "southwest" : {
+                   "lat" : 22.56955681970849,
+                   "lng" : 72.96575071970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "478f093bced1fbe71800b88ec599cba4cb6758af",
+          "name" : "Farooki masjid",
+          "place_id" : "ChIJeWj40ZVOXjkRUPbWk0X2cCE",
+          "rating" : 5,
+          "reference" : "CmRRAAAAGkPoqumH1DDRWP5auafWwnzV9IjFDPkcruhAodVK-dkMWhfh3GISZdeUpRxMo0lpqNfepyD7ktB_dlnWIvtihAJlfqkr_60ZfcQk-iu8D07lhNBTo0mYkDOeFZOYVJWoEhDQ5Omr1KEjRixIo9SNXJvAGhT35xzvLmAeBK3fNEqZQn_p3sf5Mg",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Khwaja Nagar, Ismaile Nagar, Gamdi, Anand, Gujarat 388001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5760447,
+                "lng" : 72.9723427
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5773936802915,
+                   "lng" : 72.97369168029151
+                },
+                "southwest" : {
+                   "lat" : 22.5746957197085,
+                   "lng" : 72.97099371970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "1f73d401066a84889f2556082f586374dc0d6ecb",
+          "name" : "Sunni Masjid E Kanzul Iman",
+          "place_id" : "ChIJr9eYg79OXjkRmDu9soAXfRk",
+          "rating" : 5,
+          "reference" : "CmRRAAAAYy1AsDTphdqQiFSmcZhLf_a8Odr8ouq5eG0JdiV-4UeJFstCmn3d14YRGJEGl4PZhdN7FbvGns_SZaLyfRnuuQRlxI_3-AJ7Zx22z1Op_7fMNSEz4Ol8k_d22XZ5iKbmEhCU1X9VJmxJ2yEyubl6lfJHGhSMs0ZkHmAo2N7gZldU824CMDvnFg",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Bakrol, Anand, Gujarat 388315, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5629267,
+                "lng" : 72.9140443
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.56427568029151,
+                   "lng" : 72.91539328029151
+                },
+                "southwest" : {
+                   "lat" : 22.5615777197085,
+                   "lng" : 72.91269531970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "8e29ab3eac7f768091688ebc6dc70cc27dc2c32c",
+          "name" : "Dargha",
+          "place_id" : "ChIJSeQX4RBOXjkRcbV08KG_MfQ",
+          "rating" : 4.7,
+          "reference" : "CmRSAAAAUrNmeZr3KP0RN8ufa_-3htYJyCfcqIqrBgf5pf5UhCVP3sv2jFgsa_gBGUofkoiJu-j_HCKi7SbrxKXJ6vmAm4oatD_LoPl3CU_9crhgqU0fuNpav4FlMNuXmRl9EMdxEhA3H4Ixqg3XVI-rS4QVBynKGhSp-m_jTbY60GUFE0r2Oo5GdNr13A",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "at the hadgud bus station, Hadgood, Anand, Gujarat 388110, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5242034,
+                "lng" : 72.9775429
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5255523802915,
+                   "lng" : 72.97889188029151
+                },
+                "southwest" : {
+                   "lat" : 22.52285441970849,
+                   "lng" : 72.97619391970851
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "c4f2a3a4b8af51f276a892f4a7cb2d19c8195046",
+          "name" : "Masjide Ayesha",
+          "photos" : [
+             {
+                "height" : 4128,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/118391143775514257130/photos\"\u003easjad saiyad\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA3Xa2-WvbKSQdxCsu1pDofAGklCIKsuj55NoCzzMNEyL1dmq32zRAdSCLqABh2olESWVK3gHKad1c45aVFx_JyDCFZCWfzbkf1VyPnzH0fEnJqswu2Qr_tN898JWN_4pdEhB0EwFLVMBElvvbx_iqIrd-GhSwa0eU0FkNDt1jBD-93G7I-bxscg",
+                "width" : 3096
+             }
+          ],
+          "place_id" : "ChIJr58UkW5MXjkRcMAodOyMho4",
+          "rating" : 5,
+          "reference" : "CmRSAAAAC4dCrT7MAijc-6qUdVi6yNTQDsB37VrfTUj3n5RdYU_bdS7qrsozs3sJQiZppaK0X-W9Rc5fmMDkAD5AxvTZQwxaQdH2IAhaQ_i40R1a6bcAdZQo7mba72SJcfRob8YvEhDcY9dgaoRoWPwii3bqO522GhQkGLDPkVlZNm7cPmJPTjfV5X2Njw",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Vidgyanagar Rd, Mota Bazaar, Vallabh Vidyanagar, Anand, Gujarat 388120, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.560807,
+                "lng" : 72.9224443
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5621559802915,
+                   "lng" : 72.92379328029151
+                },
+                "southwest" : {
+                   "lat" : 22.5594580197085,
+                   "lng" : 72.92109531970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "12004659b8e2632bb9da3c9a4edc4b4d74ad209f",
+          "name" : "Hajiyani (Masjed)",
+          "opening_hours" : {
+             "open_now" : true,
+             "weekday_text" : []
+          },
+          "place_id" : "ChIJ8_UyS21OXjkRhd26UNc-K8w",
+          "rating" : 5,
+          "reference" : "CmRSAAAAuF46M72dWjVmUncVq0GQ8Zo0da1c1P4FvBTZvtIc-m6MzaqG2CMyvAdTejGC7G2USz9PyiOjOXV3_VNpvdomIoqvo3CwBbE14tovvkrdiKqA6q0WV7inj7fEg4Ucp7u3EhCgMm2akm_O6-Kt-AGoABf5GhQ1pmEZ7xcuM9E-l30hH-gtWaLCHQ",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "GJ SH 75, Vivekanand Wadi, Anand, Gujarat 388001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5469249,
+                "lng" : 72.9569006
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5483226302915,
+                   "lng" : 72.95845773029151
+                },
+                "southwest" : {
+                   "lat" : 22.5456246697085,
+                   "lng" : 72.95575976970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "e3d4d862f63ec6e875ed3fb62b5f071f1ff09236",
+          "name" : "Muslim Cemetery",
+          "place_id" : "ChIJX4RSuihMXjkRStEcy9jEosw",
+          "rating" : 5,
+          "reference" : "CmRSAAAA2JGOUVe48RiW1LL92njK3QRNv1mlh-OoCjbYMdI2xYrmVhRZFzJkT5wdNJssNf9xFMstRevLg9u-Qs52nZsK-ANtJoyuPGHFD-BZ1shXRr0eKIAHjvi6QWJqKnD7GG6lEhAzxeFyP9NsP1R-MPgC_XAXGhT4whk5DTZfnRPwriPNKkobkR5cSA",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Ismaile Nagar, Gamdi, Anand, Gujarat 388001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5722544,
+                "lng" : 72.9633017
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.57360338029151,
+                   "lng" : 72.96465068029151
+                },
+                "southwest" : {
+                   "lat" : 22.5709054197085,
+                   "lng" : 72.96195271970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "e578a1a02f1b733172e2513b2d25fb9f34e26ea2",
+          "name" : "Eidgah",
+          "place_id" : "ChIJCwJrhJNOXjkRa8ulgO-1gbw",
+          "reference" : "CmRSAAAAzlnedFf4JJqFEPx5tuiL_RCyUFvljjwVIOiiBDWw2oDgQguTISgvAtJFQnFvHuWSDSOKRO2EsuitYv4zPvvVr3ezyr98Wj6FsNK-0n2DOaxyZMMnUd0UWsYiVHVLAJSeEhCdzAyl8-h1RYq33D9eX9pSGhQT6_jZ717r_G_JftRaqXQwvbRp0Q",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand - Umeta Rd, Jitodia, Anand, Gujarat 388355, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.3334463,
+                "lng" : 73.04926549999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.3347952802915,
+                   "lng" : 73.0506144802915
+                },
+                "southwest" : {
+                   "lat" : 22.3320973197085,
+                   "lng" : 73.04791651970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "ff996deb538e209ebe5c0586a17d75d5bee9d855",
+          "name" : "Madina Masjid",
+          "opening_hours" : {
+             "open_now" : true,
+             "weekday_text" : []
+          },
+          "photos" : [
+             {
+                "height" : 1080,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/110368394010462176316/photos\"\u003eFaruk Vohra\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAA5M1F1WV4O9zM-p_NtKGqiEgG5vI-ZIYNQRgCoivy2VJE25OscrQWaDAB3mAPupEKMVsh5CHSVx1BI9lnLuSzZPGo5Zjeq5Ks5ot1f_B_9jtszlL2lK3-DZIRbRGuZ4CmEhBYblqgPZNyXCypf3Tk4NVFGhRk6MwdBZWz2IQ1drvrS8cPPqo1HQ",
+                "width" : 1920
+             }
+          ],
+          "place_id" : "ChIJO1qJAVO2XzkRbgagCgkdPP8",
+          "rating" : 4.9,
+          "reference" : "CmRSAAAAWzdPcycPoZAVNSaUvY4HhqvlDl03PVQAXBEHsU4tIC8lQNYD4-0gGMcC9G84bo-CnMga9KGQUZpFCe_zGPK-gNoGITxfLFMIl3-eMLWaVSOsSaEGw5nLdZ-kHvsxa3kEEhCE6Ux1mCGpRAvPM_uZys-kGhQRl2C7HIEkPCTEtXbBlpIE9AKZdw",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Nagar, Morbi,Gujarat 363641, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.8168935,
+                "lng" : 70.85967699999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.8182424802915,
+                   "lng" : 70.8610259802915
+                },
+                "southwest" : {
+                   "lat" : 22.8155445197085,
+                   "lng" : 70.85832801970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "0b568b0ca9afb2f5dabe8f8c7c466ad72f00e9f6",
+          "name" : "So Ordi Masjid",
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/105514496838465311772/photos\"\u003eSama Siraj\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAwTj6S5iRu74k-AiXov_aC6M9c41D9j191f_GQZKWQLOiTviL_mm6ShGpPjSDP9bR7PKMxXwq8AgP_N1yExnzHFwH1gNNMYCNa9kYZhXonYQiWevcomWSgugxI3FEgbz1EhAeGdtY7uYHW2Jwluw3pxSvGhSRHT5QVCkcZTjAn5z7aTUYC-EdNw",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJWzU9h1WMWTkRPa42uXlQgqg",
+          "rating" : 5,
+          "reference" : "CmRSAAAAMUj7ikn0o3hKvim0G0j82Qu_ejv5hyIXfJg0rH2nUvgB_6rq1-euT-M3VQX9TKVp9xrnp250iZGEfNOG5nIJWve7a04zqFBYUpZCWFXIeRc2U-wS77srb0kXy2DTLagMEhCK1SzNyt0gFnuWxVf0fNK4GhSJxgPySeByZ46jBh7cPClJYLbwsg",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Sahara Nagar, Anand Nagar, Solapur, Maharashtra 413224, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.6355907,
+                "lng" : 75.92350589999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.6369396802915,
+                   "lng" : 75.92485488029151
+                },
+                "southwest" : {
+                   "lat" : 17.6342417197085,
+                   "lng" : 75.92215691970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "f4a97a67955c108c9fd6251a3c56623a77a5e17c",
+          "name" : "Sahara Nagar Masjid",
+          "place_id" : "ChIJ0chW0SHaxTsRwKaET5VPfKY",
+          "rating" : 3.5,
+          "reference" : "CmRSAAAAVqQruMr3eFyKIfADwOSy5LwZw0PHbzY4S474IThxB6qzKNPDE4x0AJ1tNKzl_0H1sMskaoUsCJwAprCvxafAvsNZ_99qnxa-O-oN47FQMK9J7wIO4xWTaTN3YmTh0LZFEhAPyfahE84ONhtCjyDo2xQoGhSoQ4rhZ-UAeOJzbancMla36Npr8Q",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Nagar Colony, Raghavendra Colony, Kondapur, Hyderabad, Telangana 500084, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.4661471,
+                "lng" : 78.3630967
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.4674960802915,
+                   "lng" : 78.36444568029151
+                },
+                "southwest" : {
+                   "lat" : 17.4647981197085,
+                   "lng" : 78.36174771970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "de6c0a43b91c9e3ac5bf6bce0435decd830e3f39",
+          "name" : "Mosque",
+          "place_id" : "ChIJD8IEwcqTyzsRHxXPQTLXCQI",
+          "rating" : 5,
+          "reference" : "CmRRAAAA7i8n_Qg5xIk75OkIVgO7M-83zv5-UEZu7ady1XWRBKaTLVESqNPGOyWLVMI6GqEBOZJhvNH62fffssZX3pXbEbe4GXKPBXV2aMh_JG_SCbJQT0hL8DLwtBI-lmZ8JytBEhAbqi77Fr2xB4NoCMWjI-x9GhRbFKledNrAj7CYByEi-MC-oZTGmQ",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Nagar Rd, Jai Maharashtra Colony, Shankar Nagar, Mundhwa, Pune, Maharashtra 411036, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 18.5298495,
+                "lng" : 73.9421291
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 18.5312025302915,
+                   "lng" : 73.9434564802915
+                },
+                "southwest" : {
+                   "lat" : 18.5285045697085,
+                   "lng" : 73.94075851970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "34af0ddec49878ff110bb776bf5b9cc82d07379e",
+          "name" : "Fatema Masjid",
+          "place_id" : "ChIJPb63yy7CwjsRHgEWElUFPY8",
+          "reference" : "CmRSAAAAHKnlxW6kqGYB5Qer1dHK8PUZFD-4W5zx6TRFH4s3t6u6YozHFzRrB1LZDBGf91sx1oXPOGLBsWJl5iahQa3LnS_uJWpKEui_Y_bAgJ_7S0Oyxn2pDyqhm0BZwH8SSxycEhBy8-_bqYm70tOHhU42NUk6GhTuNlLtXayp84zzItrhwHowjNsqBA",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "salatiya road near Marium park, Anand,Gujarat 388001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 22.5735841,
+                "lng" : 72.9561422
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 22.5749330802915,
+                   "lng" : 72.9574911802915
+                },
+                "southwest" : {
+                   "lat" : 22.57223511970849,
+                   "lng" : 72.95479321970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+          "id" : "7d49f40e9b8f46aef6ab1b053057d4924c937b4b",
+          "name" : "Masjid e juber",
+          "opening_hours" : {
+             "open_now" : true,
+             "weekday_text" : []
+          },
+          "place_id" : "ChIJIR7uPo1OXjkRRoa_bbaB5Ig",
+          "rating" : 3.7,
+          "reference" : "CmRSAAAA48uQ8rl-Teuut-ihNWLMcviPs8wHgPSAkCA4dzVIkagAEQ1lIFASXNqrXj4_9A1YKreKPQMTnwwDNOQxUw_IOP0awMm_4y3PElRZbvwoFxlpLLMNlYc6pHLeCmyNzqwpEhAqPVIBVRA-6R1igKcZvRkAGhTPN4NAPABaCc7NseAHS76AL_4WJg",
+          "types" : [ "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "965, Anand Nagar Rd, Naveen Nagar, Banjara Hills, Hyderabad, Telangana 500004, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 17.4107341,
+                "lng" : 78.4539073
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 17.4120866302915,
+                   "lng" : 78.45530153029151
+                },
+                "southwest" : {
+                   "lat" : 17.4093886697085,
+                   "lng" : 78.45260356970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "6731d1bb325e3bae5d6dd35bacfc4e868c6b6307",
+          "name" : "Qutub shahi masjid",
+          "opening_hours" : {
+             "open_now" : true,
+             "weekday_text" : []
+          },
+          "photos" : [
+             {
+                "height" : 4640,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104237442131214547068/photos\"\u003ekapalawai sandeep\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAR75ObI7CkyoDlRc5pUB8m_MLyjNZKZIN-20RkUWEjXh5_MBDTI8r51rJPFP86fYs7X7Ms2ElA9k0CEhdw0NhlKXeyZEWVJXhD6b0VnH-j_Imv0aW-BzZiGutG99Fd7OaEhBZf-idD65PoIJtCdLafFuIGhShkjN4vklTw3vwvOUJrV5Lq1RTBg",
+                "width" : 3480
+             }
+          ],
+          "place_id" : "ChIJgZfJEkeXyzsRSDGFVH81pqo",
+          "rating" : 4,
+          "reference" : "CmRSAAAAj_cLzdo2RsRu-1ssWl4QyZ_C-6IuayJZ2OP9z_lG7vcVgKgQElrwwHPCkVqD9QmALWCKdVPy4u8ITrEfh-9ANmbe35UoB5mp8h8ZFIdxFVBHrovXH6e7wFeOXuyHxW0AEhC_FlNj88jmbNy_vpHT9kXOGhTrxkPiDOSe_mtbWPhtK_Hroc_9uA",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Nagar, Hubballi, Karnataka 580030, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 15.3412591,
+                "lng" : 75.10677269999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 15.3426080802915,
+                   "lng" : 75.1081216802915
+                },
+                "southwest" : {
+                   "lat" : 15.3399101197085,
+                   "lng" : 75.10542371970848
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "efb7ee05ca0e286ba3c05ad962fadcb5474300f1",
+          "name" : "Anand Nagar Noorani Masjid",
+          "photos" : [
+             {
+                "height" : 1440,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/104604293935609576912/photos\"\u003ePlasterofparis Paris\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAFG8EpFCEPIhIbhvI45VLdSjqrnE_DXLv1Xb69dvVHK9eb9cUY0oSo8VlgQYKDSM-b47UnP4OXyZxOfnXtV343-Msy5q8VKYAqd_KLWv4ScbzkawmUhYD1kffYqctAQZmEhCoqhiGQ2km5GUNDn9h33GTGhTRalYBDtmSWVashlKZSGT8uXrhrw",
+                "width" : 864
+             }
+          ],
+          "place_id" : "ChIJpT1IweHWuDsR1F866ByopRw",
+          "rating" : 4.8,
+          "reference" : "CmRRAAAAAur9R1tS6HY1NMX3Oa6LfU70S8kSLK9YJ8c4sewttKCjJ03vxpTs4-yQXAXKlj80SexuuCBexyed2l0SpEtms1mb24ApU63e5gKJm2VKdV_BAa5KTfV8cQyS4nTlQXa3EhCQme9xfriXK-l6hNwa_0fPGhQ1qhehvWlCsuon7jv1vTLc9EgztQ",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Anand Park Society, Kalol, Gujarat 382721, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 23.2490239,
+                "lng" : 72.49008529999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 23.2503728802915,
+                   "lng" : 72.4914342802915
+                },
+                "southwest" : {
+                   "lat" : 23.2476749197085,
+                   "lng" : 72.48873631970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "0fa481cc77d7f398e9030a66e8d150f4134989f4",
+          "name" : "Aisha Masjid",
+          "opening_hours" : {
+             "open_now" : true,
+             "weekday_text" : []
+          },
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/109870662716662228697/photos\"\u003eilyas mustafa\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAI5yJYrEpgOujFnR00tfTcgmfzSFPshhXpDHVJBnFyzd90198OuIWThgplUeddnx6XbK27NIhXZsNTDep-7H-MKxsu_7bB_5afuFG4ItVk6SIbtx1PtEw2UcHWJNQClibEhDrJ69kVX4nnzHsbDeV9NL9GhRxAIk5rrQ6i1-8HsbXQN3a3_LfDA",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJF1i0ssQlXDkRVxoVadixarM",
+          "rating" : 5,
+          "reference" : "CmRSAAAAQZFm-OCrsn8NzNdiXVB5_ZRvgMgOlQ2PGChjY9M53wXUyrzq5W5Da0gAoUO0gBOKW5imaTeXPx_s93VKo3a_xkuFAHQlxeIWaLPqXcZ_gKKjo32Y28aAQOenORr8B9GrEhD0ihnJ5YWm-9GLYsxBU6VeGhSbTHBpk_Sdk-m6VR2pufFwlLzxWw",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Mata Mandir Rd, Anand Vihar, Ajabpur Kalan, Dehradun, Uttarakhand 248001, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 30.295714,
+                "lng" : 78.04314669999999
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 30.2970629802915,
+                   "lng" : 78.0444956802915
+                },
+                "southwest" : {
+                   "lat" : 30.2943650197085,
+                   "lng" : 78.0417977197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "e7578ebee26b178ae152ecfd011a1b931daa6792",
+          "name" : "Jama Masjid Ajabpur Kalan Dehradun Uttarakhand",
+          "place_id" : "ChIJJQxsOgspCTkRKknV-ImzzMc",
+          "rating" : 5,
+          "reference" : "CmRSAAAAZHh9f3YDag_CAsspWQHC_dxNGT7qasEaHEqxolkQBIrbqAQkVY0FD9vC0Vlsh316A2u1K_cvuTL3OhdlO8B4X9uUDJqlJ5Vpp0_C9P9YjJmqNo6u_P8REAGopzFjVq3jEhCCQwAxk1c8qByf5YyPVpbMGhR3XB0BUahDxjWUq25pn2yCrmWmVg",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Sunni Madina masjid,, New Link Rd, Anand Nagar, Andheri West, Mumbai, Maharashtra 400102, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 19.1492752,
+                "lng" : 72.8348601
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 19.1506241802915,
+                   "lng" : 72.83620908029151
+                },
+                "southwest" : {
+                   "lat" : 19.1479262197085,
+                   "lng" : 72.8335111197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "97659beb3905c60a1a99ae3dc91fd176dcbf4172",
+          "name" : "Sunni Madina Masjid",
+          "photos" : [
+             {
+                "height" : 4160,
+                "html_attributions" : [
+                   "\u003ca href=\"https://maps.google.com/maps/contrib/114711548569320885600/photos\"\u003eMAXX MARGAJ\u003c/a\u003e"
+                ],
+                "photo_reference" : "CmRaAAAAE6HXcCuN7qQlj6dBNRNH7SRFjWRYf471uQY9PrNvZ8C47UsiuqANeuDa9Jo7BcQJmS71TmIzJhPNMjwdjJq_5Wh8R9qrjB6Vt-dLKGmCp1eWrwYoqs8Q1-ltIcP25ZJjEhBI4Z-h28QW6ajTXJmaW8SkGhQ9PpgzTTOai5UBZbWoU8-NtKhwUA",
+                "width" : 3120
+             }
+          ],
+          "place_id" : "ChIJ27G2pDi25zsR9fwqJFRyoB0",
+          "rating" : 4.2,
+          "reference" : "CmRRAAAA-TL5DBNjIvjvXg_CodldrOs1CzVUHD-fykm8ga-lZwO5fKjrvJGo092gMa4hINTX2qRMGkqQljQfkfCWiXv49ay44sc9R_yHe4uqB9CQwulqMJV2ki7fFjkahXyJQYTFEhAt0DMAgswKAd9uTuK7yL1BGhRTPzLFdVR2Q4odLSj_eRrwoIGTpg",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Katal Road & Anand Bazar Road, Anand Bazar, Danapur Cantt., Patna, Bihar 801503, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 25.6310769,
+                "lng" : 85.036154
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 25.6324258802915,
+                   "lng" : 85.03750298029151
+                },
+                "southwest" : {
+                   "lat" : 25.6297279197085,
+                   "lng" : 85.0348050197085
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "d89357842a340d2216634c367f94136f4d0993f4",
+          "name" : "Badi Masjid",
+          "place_id" : "ChIJW3YE2YhW7TkRPtTgK2E9rnw",
+          "rating" : 3,
+          "reference" : "CmRRAAAA2q4ig1UyJMZt08jsvbChD24PKgtdf9NLks1thXN3gP3dK76-NmaOtZ0WRMlDQIum92tILadIVlzrU7REGGLr95MKjz-jTpjbtGhI4OI_up_OjETfd_VXjPn4nb68V9zmEhDLnAHTj3GPFIjYme46K179GhTUpS3PrNSRPYfKYKLJTOHuXDAfgA",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       },
+       {
+          "formatted_address" : "Sindhi Society, Chembur East, Mumbai, Maharashtra 400071, India",
+          "geometry" : {
+             "location" : {
+                "lat" : 19.0522002,
+                "lng" : 72.8900599
+             },
+             "viewport" : {
+                "northeast" : {
+                   "lat" : 19.0535491802915,
+                   "lng" : 72.89140888029149
+                },
+                "southwest" : {
+                   "lat" : 19.05085121970849,
+                   "lng" : 72.88871091970849
+                }
+             }
+          },
+          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+          "id" : "345b7c8a1168b3635046a72b71d55a174cf64ddb",
+          "name" : "Madrasa Wa Masjid Aqsa",
+          "place_id" : "ChIJI7E-gqXI5zsR_2h39wCZhnA",
+          "rating" : 5,
+          "reference" : "CmRRAAAA_m2QxlJTJsR2ZvIYjm2JXKzcSB0rU9WWzG6TmEqTZmcrdYE6U-6X40RXpsiKe4zAl9fBzvJC75RMIiiMxWXkZUvWyqg7UqSXlJKdtj-sgfxRIpcQRETPq3bwYTr3frZMEhAo2v_jhQK6dwiskGB6JLYXGhQd_CHvoeHmFU8-x9GIqKS2RGGvqw",
+          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ]
+       }
+    ],
+    "status" : "OK"
+ }

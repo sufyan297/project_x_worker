@@ -33,6 +33,7 @@ function getData()
 
     //         tmp.country = tmp_add[len - 1].trim();
     //         var tmp_pin_state = tmp_add[len - 2].split(" ");
+    //         console.log("CURRENT: ROW:",row);
     //         tmp.city = tmp_add[len - 3].trim();
     //         tmp.state = tmp_pin_state[1].trim();
     //         tmp.pincode = tmp_pin_state[2];
@@ -48,9 +49,12 @@ function getData()
     //     mosques_data.push(tmp);
     // });
 
-    var _uri = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=mosque%20in%20Khambhat&key=AIzaSyDMWP2TM0CGFqX41BMP_J85wWlW7-Ddt8E";
+
+    // console.log("Mosques:",mosques_data);
+    // process.exit(0);
+    var _uri = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=mosque%20in%20Anand&key=AIzaSyDMWP2TM0CGFqX41BMP_J85wWlW7-Ddt8E";
     if (next_page_token !== "") {
-        _uri = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=mosque%20in%20Khambhat&key=AIzaSyDMWP2TM0CGFqX41BMP_J85wWlW7-Ddt8E&pagetoken="+next_page_token;
+        _uri = "https://maps.googleapis.com/maps/api/place/textsearch/json?query=mosque%20in%20Anand&key=AIzaSyDMWP2TM0CGFqX41BMP_J85wWlW7-Ddt8E&pagetoken="+next_page_token;
     }
     
     var options = {
@@ -164,5 +168,5 @@ setInterval(function() {
         .catch(function(err) {
             console.log("Error: ", err);
         });
-}, 20 * 1000);
+}, 2 * 1000);
 	
